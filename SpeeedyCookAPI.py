@@ -2,13 +2,13 @@ import requests
 import json
 from googletrans import Translator
 
-def Edamam_API_call():
+def Edamam_API_call(food):
     url = 'https://api.edamam.com/api/recipes/v2'
     params = {
         'type': 'public',
         'app_id': 'f93b1901',
         'app_key': 'c5695c359ddf80efb745044e4f9b1184',
-        'q': 'steak',
+        'q': f'{food}',
         'ingr': '4',
         'mealType': 'Breakfast',
         'time': '30'
