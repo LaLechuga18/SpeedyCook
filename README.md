@@ -29,6 +29,6 @@ Al ejecutar el programa se iniciara una ventana con dos botones; 'Empezar' e 'In
 boton 'Generar Receta' y aparecera una ventana con las recetas que contenga dicho alimento.
 
 ## Autores 
--Frontend: Angel Sebastian Garnica Carbajal
+- Frontend: Angel Sebastian Garnica Carbajal
 - Backend 1:Jair Ruvalcaba Prieto
 - Backend 2: Alan Ponce Castillejos
