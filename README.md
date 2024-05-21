@@ -30,5 +30,5 @@ boton 'Generar Receta' y aparecera una ventana con las recetas que contenga dich
 
 ## Autores 
 - Frontend: Angel Sebastian Garnica Carbajal
-- Backend 1:Jair Ruvalcaba Prieto
+- Backend 1: Jair Ruvalcaba Prieto
 - Backend 2: Alan Ponce Castillejos
