@@ -15,7 +15,7 @@ es una buena opcion si no se sabe que comida preparar con los alimentos que se t
 ## Requisitos Previos
 - Descargar el archivo 'logo.png'
 - Tener instalado el modulo de Tensorflow
-- Descagar el archivo principal ''
+- Descagar el archivo principal 'Speedy_Cook.py'
 
 
 ## Instalacion
